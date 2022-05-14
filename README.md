@@ -1,7 +1,7 @@
 transliterate1234
 ========
 
-I stole the data file from the popular npm module [transliteration](https://www.npmjs.com/package/transliteration) and wrote 15 lines.
+Converts UTF-8 `&str` to ASCII `String`. I stole the data file from the popular npm module [transliteration](https://www.npmjs.com/package/transliteration) and wrote 15 lines.
 
 ```rust
 use transliterate1234::transliterate;
